@@ -1,0 +1,75 @@
+[submodule "frases_aleatorias"]
+	path = frases_aleatorias
+	url = https://github.com/MatheusConaga/frases_aleatorias.git
+[submodule "jokenPo"]
+	path = jokenPo
+	url = https://github.com/MatheusConaga/jokenPo.git
+[submodule "alcool_ou_gasolina"]
+	path = alcool_ou_gasolina
+	url = https://github.com/MatheusConaga/alcool_ou_gasolina.git
+[submodule "navegacao_atm_consultoria"]
+	path = navegacao_atm_consultoria
+	url = https://github.com/MatheusConaga/navegacao_atm_consultoria.git
+[submodule "cara_ou_coroa"]
+	path = cara_ou_coroa
+	url = https://github.com/MatheusConaga/cara_ou_coroa.git
+[submodule "preco_bitcoin"]
+	path = preco_bitcoin
+	url = https://github.com/MatheusConaga/preco_bitcoin.git
+[submodule "consumo_servico"]
+	path = consumo_servico
+	url = https://github.com/MatheusConaga/consumo_servico.git
+[submodule "consumo_servico_avancado"]
+	path = consumo_servico_avancado
+	url = https://github.com/MatheusConaga/consumo_servico_avancado.git
+[submodule "youtube_clone"]
+	path = youtube_clone
+	url = https://github.com/MatheusConaga/youtube_clone.git
+[submodule "lista_de_tarefas"]
+	path = lista_de_tarefas
+	url = https://github.com/MatheusConaga/lista_de_tarefas.git
+[submodule "banco_de_dados"]
+	path = banco_de_dados
+	url = https://github.com/MatheusConaga/banco_de_dados.git
+[submodule "lista_de_anotacoes"]
+	path = lista_de_anotacoes
+	url = https://github.com/MatheusConaga/lista_de_anotacoes.git
+[submodule "executando_sons"]
+	path = executando_sons
+	url = https://github.com/MatheusConaga/executando_sons.git
+[submodule "aprenda_ingles_sons"]
+	path = aprenda_ingles_sons
+	url = https://github.com/MatheusConaga/aprenda_ingles_sons.git
+[submodule "executando_videos"]
+	path = executando_videos
+	url = https://github.com/MatheusConaga/executando_videos.git
+[submodule "estudos_firebase"]
+	path = estudos_firebase
+	url = https://github.com/MatheusConaga/estudos_firebase.git
+[submodule "whatsapp_clone"]
+	path = whatsapp_clone
+	url = https://github.com/MatheusConaga/whatsapp_clone.git
+[submodule "viagens_api_maps"]
+	path = viagens_api_maps
+	url = https://github.com/MatheusConaga/viagens_api_maps.git
+[submodule "uber_clone"]
+	path = uber_clone
+	url = https://github.com/MatheusConaga/uber_clone.git
+[submodule "animacoes"]
+	path = animacoes
+	url = https://github.com/MatheusConaga/animacoes.git
+[submodule "animacoes_login"]
+	path = animacoes_login
+	url = https://github.com/MatheusConaga/animacoes_login.git
+[submodule "olx_clone"]
+	path = olx_clone
+	url = https://github.com/MatheusConaga/olx_clone.git
+[submodule "estudos_mobx_provider"]
+	path = estudos_mobx_provider
+	url = https://github.com/MatheusConaga/estudos_mobx_provider.git
+[submodule "estudos_responsividade"]
+	path = estudos_responsividade
+	url = https://github.com/MatheusConaga/estudos_responsividade.git
+[submodule "aplicando_responsividade"]
+	path = aplicando_responsividade
+	url = https://github.com/MatheusConaga/aplicando_responsividade.git
