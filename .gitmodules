@@ -1,4 +1,4 @@
-[submodule "frases_aleatorias"]
+[submodule "01frases_aleatorias"]
 	path = frases_aleatorias
 	url = https://github.com/MatheusConaga/frases_aleatorias.git
 [submodule "jokenPo"]
